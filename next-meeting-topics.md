@@ -18,3 +18,5 @@ Unknown "Carbon Negative Power Source" Miner
   - <https://compassmining.io/education/unknown-miner-carbon-negative-messages-bitcoin/>
 FedNow
   - <https://www.reuters.com/business/finance/fed-set-launch-long-awaited-instant-payments-service-modernizing-system-2023-07-20/>
+Earn sat by reviewing Bitcoin transcripts
+  - <https://review.btctranscripts.com/>
