@@ -2,7 +2,7 @@
 layout: post
 type: socratic
 title: "Socratic Seminar 021"
-meetup: https://www.meetup.com/dc-bit-devs/events/315086997/
+meetup: https://www.meetup.com/dc-bit-devs/events/316482389
 published: true
 ---
 
